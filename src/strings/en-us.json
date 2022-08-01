@@ -1663,5 +1663,12 @@
     "MediaInfoRpuPresentFlag": "DV rpu preset flag",
     "MediaInfoElPresentFlag": "DV el preset flag",
     "MediaInfoBlPresentFlag": "DV bl preset flag",
-    "MediaInfoDvBlSignalCompatibilityId": "DV bl signal compatibility id"
+    "MediaInfoDvBlSignalCompatibilityId": "DV bl signal compatibility id",
+    "HeaderDummyChapter": "Chapter Images",
+    "LabelDummyChapterDuration": "Interval:",
+    "LabelDummyChapterDurationHelp": "The chapter image extraction interval in seconds.",
+    "LabelDummyChapterCount": "Limit:",
+    "LabelDummyChapterCountHelp": "The maximum number of chapter images that will be extracted for each media file.",
+    "LabelChapterImageResolution": "Resolution:",
+    "LabelChapterImageResolutionHelp": "The resolution of the extracted chapter images."
 }
